@@ -8,7 +8,7 @@ A simple API for getting the current time. You can use this for devices that don
 ## Setup
 
 > [!WARNING]
-> Please use the API behind a proxy like [Nginx](https://www.nginx.com/) and set the `X-Forwarded-For` and `X-Forwarded-Proto` headers.
+> Please use the API behind a proxy like [Nginx](https://www.nginx.com/) and set the `Host`, `X-Forwarded-For` and `X-Forwarded-Proto` headers.
 
 1. Clone the repository (Skip this if you have already cloned the repo)
 
